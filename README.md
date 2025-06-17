@@ -55,16 +55,5 @@ Start the development server:
 
 pnpm dev
 Open your browser and visit:
-
 http://localhost:3000
-Available Scripts
-
-Script	Command	Description
-Development	pnpm dev	Launches local dev server on port 3000
-Production	pnpm build	Generates production build
-Linting	pnpm lint	Runs ESLint on the project
-Formatting	pnpm format	Formats code with Prettier configuration
-Contribution and Extensibility
-
-
 
