@@ -4,7 +4,9 @@ By *Ean Kotadia – Class 10 E* | Brain Dump Hackathon
 
 > Disclaimer: This was vibe coded and a proof of concept rather than purely functional.
 
-## Use Now: [Brain Dump](https://brain-dump-6kwh-6idlifzfq-ean-kotadias-projects.vercel.app/dashboard)
+## Use Now: [Brain Dump App](https://brain-dump-6kwh-6idlifzfq-ean-kotadias-projects.vercel.app/dashboard)
+
+## Yt Video: [Brain Dump Video](https://www.youtube.com/watch?v=MbmyJhx5-As&t=17s)
 ---
 
 ## Overview
