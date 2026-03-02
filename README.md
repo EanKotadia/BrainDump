@@ -6,7 +6,7 @@ By *Ean Kotadia – Class 10 E* | Brain Dump Hackathon
 
 ## Use Now: [Brain Dump App](https://brain-dump-6kwh-6idlifzfq-ean-kotadias-projects.vercel.app/dashboard)
 
-## Yt Video: [Brain Dump Video](https://www.youtube.com/watch?v=MbmyJhx5-As&t=17s)
+## Yt Video: [Brain Dump Video](https://www.youtube.com/watch?v=MbmyJhx5-As&t=0s)
 ---
 
 ## Overview
