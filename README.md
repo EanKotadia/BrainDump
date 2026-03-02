@@ -1,7 +1,8 @@
-# Brain Dump – Minimalist Productivity App
-
+# Brain Dump
 **Brain Dump** is a minimalist, black-and-white productivity application built with React, TypeScript, and Tailwind CSS. Designed for clarity and deep focus, it features a powerful brain dump module that automatically structures raw thoughts into actionable tasks using AI.
+By *Ean Kotadia – Class 10 E* | Brain Dump Hackathon
 
+> Disclaimer: This was vibe coded and a proof of concept rather than purely functional.
 ---
 
 ## Overview
